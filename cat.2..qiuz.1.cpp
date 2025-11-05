@@ -1,4 +1,3 @@
-#include <stdio.h>
 
 /*
 Name: Joseph kariuki gichuhi
@@ -38,3 +37,4 @@ int main() {
 	
 	
 }
+
